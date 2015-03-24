@@ -1,0 +1,20 @@
+#######################################
+# Syntax Coloring Map For BridgeLibrary
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+Bridge	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+begin	KEYWORD2
+checkConnection	KEYWORD2
+sendData	KEYWORD2
+processSerial	KEYWORD2
+#######################################
+# Constants (LITERAL1)
+#######################################
